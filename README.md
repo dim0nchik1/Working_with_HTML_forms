@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "Работа с HTML-формами"
-![CI](https://github.com/dim0nchik1/Working_with_HTML_forms/actions/workflows/web.yml/badge.svg)
+[![Сборка status](https://ci.appveyor.com/api/projects/status/4uwmca901u7beei8?svg=true)](https://ci.appveyor.com/project/dim0nchik1/working-with-html-forms)
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.

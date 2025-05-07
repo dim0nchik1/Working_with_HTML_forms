@@ -10,7 +10,7 @@ describe("test validator form", () => {
   beforeAll(async () => {
     server = fork(`${__dirname}/e2e.server.js`);
     browser = await puppetteer.launch({
-      headless: false, // show gui
+      headless: true, // show gui
       slowMo: 100,
       // devtools: true, // show devTools
     });
